@@ -1,0 +1,9 @@
+/*
+ * === Resetting Body Styles ===
+ */
+
+/* Resetting body margin and padding */
+body {
+    margin: 0;
+    padding: 0;
+}

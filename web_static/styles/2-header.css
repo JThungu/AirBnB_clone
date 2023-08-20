@@ -1,0 +1,10 @@
+/*
+ * === Header Styles ===
+ */
+
+/* Styling for the header */
+header {
+    background-color: #f00;
+    height: 70px;
+    width: 100%;
+}
