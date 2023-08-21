@@ -1,0 +1,26 @@
+/*
+ * == GlobalStyles Class ===
+ */
+
+/* Base style for body */
+body {
+  color: #484848;
+  font: 14px Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Prevent horizontal scrolling */
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* Style for containers */
+.container {
+  margin: 30px auto;
+  max-width: 1000px;
+}
+
+/* Style for strong text */
+strong {
+  font-weight: bold;
+}
